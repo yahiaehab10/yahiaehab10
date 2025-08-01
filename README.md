@@ -21,7 +21,6 @@ Check out some of my favorite creations:
 
 ## 📬 Connect With Me
 - LinkedIn: [Yahia Elghobashy](www.linkedin.com/in/yahia-elghobashy-a50343244)
-- Dagshub: [Yahia Elghobashy]([https://dagshub.com/dashboard](https://dagshub.com/yahiaehab10))
 
 ---
 
