@@ -2,9 +2,6 @@
 
 Welcome to my GitHub profile! Here you'll find my journey as a developer, creator, and problem solver. I'm passionate about building impactful projects, collaborating with others, and continually learning new technologies.
 
-## 🚀 About Me
-I'm an enthusiastic coder who enjoys tackling challenging problems, experimenting with new frameworks, and sharing knowledge with the community. Whether it's open source contributions or personal projects, I'm always striving to make a difference.
-
 ## 🛠️ Skills & Technologies
 - Programming Languages: `Python`, `JavaScript`, `TypeScript`, `Java`, `C++`
 - Frameworks: `React`, `Node.js`, `Django`, `Express`
